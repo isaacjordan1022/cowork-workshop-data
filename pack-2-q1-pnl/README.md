@@ -37,7 +37,8 @@ and the Jess WIP spreadsheet if anything looks off.
 ## What good output looks like
 
 A new workbook with a Dashboard tab that has live formulas, conditional formatting applied to the raw tabs, and a written summary that correctly identifies:
-- The March paid-media overage (~40% vs. budget)
+- The March paid-media overage ($252K against a $150K monthly plan, about 68% over)
+- The revenue mismatch: the preliminary board memo says $2.71M, but the Revenue tab sums to $3.18M
 - The Anthropic Enterprise tools overage (one-time annual pre-pay)
 - The mystery "Brightside Media" $45K vendor with no PO
 - The creative underrun (a genuine win)
